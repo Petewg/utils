@@ -15,3 +15,4 @@ Steps 2 & 3 must be done using file Explorer and with Firefox __closed!__
 `browser.newtabpage.activity-stream.improvesearch.handoffToAwesomebar`
 3. Double-click on that line (or click the `toggle`icon at the right of the line) and change the value from _`true`_ to ___`false`___. 
 4. Now, (quickly and before the mozilla dragon come back and catch you messing up secret settings, a case which usually leads him to blow up dragon-flames against mischievous boys --well, rumor has it,  with girls he's way more tolerant), close the `about:config` page and ... you're done!
+ - credits: https://www.askvg.com/fix-restore-real-working-search-box-on-new-tab-page-in-firefox-89-and-later/
